@@ -1,5 +1,20 @@
-<<<<<<< HEAD
 # Namaste-React-ep1
-=======
 # Namaste-React-Ep04
->>>>>>> 16e66b2aeae13c9dcd64bf36f91b721b4fd62569
+
+/*
+Header
+- Logo
+- Nav Items
+
+Body
+- Search 
+- Restuarant Container
+- Restuarant Card
+ -Img
+ -Name of res, start rating, cuisine
+Footer
+- Copyright
+- Links
+- Contact
+- Address
+*/
